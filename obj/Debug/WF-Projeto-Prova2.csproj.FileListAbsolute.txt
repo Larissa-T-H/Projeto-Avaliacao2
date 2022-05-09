@@ -1,0 +1,13 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\bin\Debug\WF-Projeto-Prova2.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\bin\Debug\WF-Projeto-Prova2.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\bin\Debug\WF-Projeto-Prova2.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF_Projeto_Prova2.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF_Projeto_Prova2.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF-Projeto-Prova2.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF_Projeto_Prova2.Telas.TurmaIngles.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Projeto-Prova2\obj\Debug\WF_Projeto_Prova2.Telas.TurmaDanca.resources
